@@ -1,11 +1,15 @@
-# lisperanto
-Lisperanto is a spatial canvas for programming
+# Lyspen
+Lyspen (previously Lisperanto) is a spatial canvas for programming
 
 edit your code directly as AST
 
-designed &#127912; and made &#127959;&#65039; in Ukraine &#127482;&#127462;
+designed &#127912; and made &#127959;&#65039; by ukrainian
 
-you can check live version https://uprun.github.io/lisperanto/
+# Name choice
+
+Lyspeniatko is an imaginary combination of fox cob and Lisp in Ukrainian, 
+
+Also you usually read code  (so *listen* rather than *talk* this is a hint to SmallTalk)
 
 
 # Support me on Patreon
@@ -24,16 +28,7 @@ https://discord.gg/W5HFSKVXgc
 # inspiration
 
 inspired by:
-1. Lisp, 
-1. Haxe, 
-1. Smalltalk, 
-1. Dion systems, 
-1. Hazel, 
-1. Scratch, 
-1. Eve, 
-1. Envision : https://github.com/dimitar-asenov/Envision
-1. Lamdu : https://github.com/lamdu/lamdu
-1. Sapling
+just checkout other projects here https://github.com/yairchu/awesome-structure-editors
 
 also i was inspired by "The future of programming" talk by Bret Victor
 
