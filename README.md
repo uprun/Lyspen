@@ -19,20 +19,11 @@ https://www.patreon.com/o_kryvonos
 
 https://discord.gg/W5HFSKVXgc
 
-# First time load image
-
-![alt text](https://github.com/uprun/lisperanto/blob/main/docs/2022-09-17--23.57.20.png?raw=true)
 
 # inspiration
 
-inspired by:
 just checkout other projects here https://github.com/yairchu/awesome-structure-editors
 
-also i was inspired by "The future of programming" talk by Bret Victor
-
-and talks by Alan Kay
-
-and talks by Chris Granger (creator of Eve programming environment)
 
 # license
 MIT
