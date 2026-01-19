@@ -7,7 +7,7 @@ designed &#127912; and made &#127959;&#65039; by ukrainian
 
 Lyspeniatko is an imaginary combination of fox cub and Lisp in Ukrainian, 
 
-Also you usually read code  (so *listen* rather than *talk* this is a hint to SmallTalk)
+But the full name will be hard to pronounce for English speakers that is why I selected shorter version.
 
 
 # Support me on Patreon
