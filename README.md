@@ -7,7 +7,7 @@ designed &#127912; and made &#127959;&#65039; by ukrainian
 
 # Name choice
 
-Lyspeniatko is an imaginary combination of fox cob and Lisp in Ukrainian, 
+Lyspeniatko is an imaginary combination of fox cub and Lisp in Ukrainian, 
 
 Also you usually read code  (so *listen* rather than *talk* this is a hint to SmallTalk)
 
