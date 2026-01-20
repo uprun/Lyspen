@@ -1,7 +1,7 @@
 # Lyspen
 Lyspen (previously Lisperanto) is an AST structured editor.
 
-designed &#127912; and made &#127959;&#65039; by ukrainian
+designed &#127912; and made &#127959;&#65039; by ukrainian &#127482;&#127462;
 
 # Name choice
 
